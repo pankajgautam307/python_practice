@@ -1,0 +1,1 @@
+# This directory contains basic python scripts to understand the basic python concepts
